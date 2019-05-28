@@ -1,5 +1,7 @@
 # Some project where I mess with Haskell
 
+I used [this tutorial](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) which honestly isn't that beginner-friendly or explicitly Haskell-centric. But I did find it to hit a lot of functional coding points I missed coming from imperative style, notably the common mechanism of transforming foreach and condition-terminated loops into expressions.
+
 ## Setup
 
 ### Shell tools
